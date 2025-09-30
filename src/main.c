@@ -3,6 +3,7 @@
 #include <string.h>
 #include "./../include/calculator.h"
 
+
 int main(int argc, char *argv[]){
 	if (argc == 4)
 	{
@@ -30,6 +31,10 @@ int main(int argc, char *argv[]){
 	}
 	else {printf("Erreur de parametres");}
 	return 0;
+
+
 }
+
+
 
 		
