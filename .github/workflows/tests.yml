@@ -1,4 +1,4 @@
-  Test_Add:
+    name: Test fonction add
     runs-on: ubuntu-latest
     needs: Compilation
     steps:
